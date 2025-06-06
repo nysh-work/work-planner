@@ -1,0 +1,218 @@
+[
+  {
+    "client": "ATI Accurate Technologies India Private Limited",
+    "manager": "Lilly B",
+    "resource1": "Kowshik",
+    "resource2": "",
+    "target": "Week 3 - August",
+    "status": "Planned"
+  },
+  {
+    "client": "Brainlabsdigital India Private Limited",
+    "manager": "Lilly B",
+    "resource1": "Varsha",
+    "resource2": "Hannah",
+    "target": "Week 3 - June",
+    "status": "Behind Schedule"
+  },
+  {
+    "client": "Decisionfoundry Private Limited",
+    "manager": "Lilly B",
+    "resource1": "Theertha",
+    "resource2": "Intern - 1",
+    "target": "Week 3 - July",
+    "status": "Planned"
+  },
+  {
+    "client": "Dexcel Electronics Designs Private Limited",
+    "manager": "Lilly B",
+    "resource1": "Dhaathri",
+    "resource2": "Intern - 1",
+    "target": "Week 2 - June",
+    "status": "Going as planned"
+  },
+  {
+    "client": "Elite Natural Private Limited",
+    "manager": "Sharath D",
+    "resource1": "Chethan",
+    "resource2": "Kowshik",
+    "target": "Week 3 - June",
+    "status": "Behind Schedule"
+  },
+  {
+    "client": "Epicor India Software Private Limited",
+    "manager": "Albin James",
+    "resource1": "Siyana",
+    "resource2": "Hannah",
+    "target": "Week 2 - August",
+    "status": "Planned"
+  },
+  {
+    "client": "Epicor LLP",
+    "manager": "Albin James",
+    "resource1": "Siyana",
+    "resource2": "Hannah",
+    "target": "Week 4 - August",
+    "status": "Planned"
+  },
+  {
+    "client": "Globe Eye Foundation",
+    "manager": "Lilly B",
+    "resource1": "Theertha",
+    "resource2": "Kowshik",
+    "target": "Week 2 - August",
+    "status": "Planned"
+  },
+  {
+    "client": "HSO India Private Limited",
+    "manager": "Sharath D",
+    "resource1": "Nandana",
+    "resource2": "Arun G",
+    "target": "Week 3 - July",
+    "status": "Planned"
+  },
+  {
+    "client": "LDRA Technology Private Limited",
+    "manager": "Lilly B",
+    "resource1": "Varsha",
+    "resource2": "Kowshik",
+    "target": "Week 1 - July",
+    "status": "Behind Schedule"
+  },
+  {
+    "client": "MEF Tech Support Private Limited",
+    "manager": "Lilly B",
+    "resource1": "Intern - 1",
+    "resource2": "Varsha",
+    "target": "Week 2 - July",
+    "status": "Planned"
+  },
+  {
+    "client": "Mfar construction Private Limited",
+    "manager": "Sharath D",
+    "resource1": "Theertha",
+    "resource2": "Nandana",
+    "target": "Week 4 - June",
+    "status": "Behind Schedule"
+  },
+  {
+    "client": "Mfar RMC Private Limited",
+    "manager": "Sharath D",
+    "resource1": "Theertha",
+    "resource2": "Nandana",
+    "target": "Week 4 - June",
+    "status": "Planned"
+  },
+  {
+    "client": "Nexer Data Managment Private Limited",
+    "manager": "Sharath D",
+    "resource1": "Arun G",
+    "resource2": "",
+    "target": "Week 1 - July",
+    "status": "Behind Schedule"
+  },
+  {
+    "client": "Nexer Enterprises Private Limited",
+    "manager": "Sharath D",
+    "resource1": "Chethan",
+    "resource2": "",
+    "target": "Week 1 - July",
+    "status": "Behind Schedule"
+  },
+  {
+    "client": "Nexer Private Limited",
+    "manager": "Sharath D",
+    "resource1": "Nandana",
+    "resource2": "",
+    "target": "Week 1 - July",
+    "status": "Behind Schedule"
+  },
+  {
+    "client": "Open Source Pharma Foundation Private Limited",
+    "manager": "Lilly B",
+    "resource1": "Intern - 1",
+    "resource2": "Theertha",
+    "target": "Week 3 - August",
+    "status": "Planned"
+  },
+  {
+    "client": "Preston India Private Limited",
+    "manager": "Albin James",
+    "resource1": "Siyana",
+    "resource2": "Athul",
+    "target": "Week 4 - June",
+    "status": "Going as planned"
+  },
+  {
+    "client": "Processor Systems India Private Limited",
+    "manager": "Sharath D",
+    "resource1": "Chethan",
+    "resource2": "",
+    "target": "Week 2 - August",
+    "status": "Planned"
+  },
+  {
+    "client": "Prolific HR Consultants India Private Limited",
+    "manager": "Albin James",
+    "resource1": "Likhitha",
+    "resource2": "Prathik",
+    "target": "Week 2 - June",
+    "status": "Behind Schedule"
+  },
+  {
+    "client": "Ray-Q Interconnection Technologies India Private Limited",
+    "manager": "Albin James",
+    "resource1": "Dhaathri",
+    "resource2": "Siyana",
+    "target": "Week 1 - August",
+    "status": "Planned"
+  },
+  {
+    "client": "Rinac India Limited",
+    "manager": "Albin James",
+    "resource1": "Dhaathri",
+    "resource2": "Prathik",
+    "target": "Week 3 - July",
+    "status": "Planned"
+  },
+  {
+    "client": "Rock Fund",
+    "manager": "Lilly B",
+    "resource1": "Kowshik",
+    "resource2": "",
+    "target": "Week 4 - June",
+    "status": "Planned"
+  },
+  {
+    "client": "Shri Subhasish Chakraborty Foundation Trust",
+    "manager": "Albin James",
+    "resource1": "Dhaathri",
+    "resource2": "Hannah",
+    "target": "Week 2 - July",
+    "status": "Planned"
+  },
+  {
+    "client": "Sienna ECAD Technologies Private Limited",
+    "manager": "Sharath D",
+    "resource1": "Arun G",
+    "resource2": "Chethan",
+    "target": "Week 4 - July",
+    "status": "Planned"
+  },
+  {
+    "client": "Snecma HAL Aerospace Private Limited",
+    "manager": "Sharath D",
+    "resource1": "Nandana",
+    "resource2": "",
+    "target": "Intern - 2",
+    "status": "Planned"
+  },
+  {
+    "client": "Tecuhrate Systems Private Limited",
+    "manager": "Lilly B",
+    "resource1": "Varsha",
+    "resource2": "Kowshik",
+    "target": "Week 1 - August",
+    "status": "Planned"
+  }
+]
