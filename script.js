@@ -12,10 +12,6 @@ async function loadAuditData() {
         // Initialize views after data is loaded
         renderTable();
         renderTimeline();
-        // Add Sl. No. to auditData
-        auditData.forEach((audit, index) => {
-            audit.sl = index + 1;
-        });
     } catch (error) {
         console.error("Could not load audit data:", error);
     }
@@ -36,8 +32,10 @@ function renderTable() {
                             audit.target.toLowerCase().includes('july') ? 'july' :
                             audit.target.toLowerCase().includes('august') ? 'august' : 'na';
         
+        console.log('Audit object:', audit);
+        console.log('Audit client:', audit.client);
+
         row.innerHTML = `
-            <td>${audit.sl}</td>
             <td>
                 <div class="client-name">${audit.client}</div>
             </td>
