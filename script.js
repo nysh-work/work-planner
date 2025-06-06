@@ -30,7 +30,8 @@ function renderTable() {
         
         const timelineClass = audit.target.toLowerCase().includes('june') ? 'june' :
                             audit.target.toLowerCase().includes('july') ? 'july' :
-                            audit.target.toLowerCase().includes('august') ? 'august' : 'na';
+                            audit.target.toLowerCase().includes('august') ? 'august' :
+                            audit.target.toLowerCase().includes('august') ? 'september' : 'na';
         
         console.log('Audit object:', audit);
         console.log('Audit client:', audit.client);
@@ -59,7 +60,7 @@ function renderTable() {
 }
 
 function renderTimeline() {
-    const months = ['june', 'july', 'august'];
+    const months = ['june', 'july', 'august', 'september'];
     
     months.forEach(month => {
         const container = document.getElementById(`${month}Timeline`);
